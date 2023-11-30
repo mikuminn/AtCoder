@@ -1,3 +1,5 @@
+// https://atcoder.jp/contests/abc264/tasks/abc264_d?lang=ja
+
 #include <stdio.h>
 
 int main(void) {
